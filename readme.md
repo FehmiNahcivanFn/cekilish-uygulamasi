@@ -10,8 +10,6 @@ Kullanıcı listesi yönetimi ve rastgele çekiliş yapabilen, terminal tabanlı
 - 🔀 Listeyi rastgele karıştırma
 - 🎲 İstenen sayıda katılımcıyı animasyonlu çekiliş ile seçme
 - 💾 Kullanıcı listesini dosyaya kaydetme (kalıcı veri)
-- 🖥️ Windows, Linux ve macOS uyumlu
-
 ---
 
 ## 🚀 Kurulum ve Çalıştırma
@@ -67,7 +65,7 @@ cekilish-uygulamasi/
 └── README.md
 ```
 
-> ⚠️ `kullanicilar.txt` dosyası uygulama tarafından otomatik oluşturulur, Git'e eklenmesine gerek yoktur.
+> ⚠️ `kullanicilar.txt` dosyası uygulama tarafından otomatik oluşturulur.
 
 ---
 
