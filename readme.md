@@ -24,7 +24,7 @@ git clone https://github.com/FehmiNahcivanFn/cekilish-uygulamasi.git
 cd cekilish-uygulamasi
 
 # Uygulamayı çalıştır
-python cekilish.py
+python str.py
 ```
 
 ---
